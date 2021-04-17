@@ -12,7 +12,7 @@ Plugin to extend the editor of TiddlyWiki5 with 'link completion'.
 **Config** :zap: **NEW** :zap: nothing to do, autocompletion works as soon the plugin is enabled.
 
 For older version of TW5 - prior to v5.1.22 -, you still must explicitely use the comptext editor. => In `$:/ControlPanel -> Advanced -> Editor Type -> text/vnd.tiddlywiki` you must chose **comptext** instead of **text**. Reload and « voilà »...
-
+ 
 Dev
 ---
 
